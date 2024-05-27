@@ -29,9 +29,8 @@ Este proyecto requiere las siguientes librerías de Python:
 - scipy
 - matplotlib
 - opencv
-- jupyter
 
 Puedes instalar las dependencias usando el siguiente comando:
 
 ```bash
-pip install numpy scipy matplotlib opencv-python jupyter
+pip install numpy scipy matplotlib opencv-python
